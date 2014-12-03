@@ -20,6 +20,8 @@
 
 *.iml
 
+.idea
+
 /.idea
 *.jar
 /lib
