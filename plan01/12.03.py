@@ -8,3 +8,4 @@ a='1234'
 a='abc'
 print string.capitalize(a)
 a.title()
+
